@@ -1,0 +1,19 @@
+MIDlet-Name: BBNote
+MIDlet-Version: 1.0.289
+MIDlet-Vendor: vnapps.com
+MIDlet-Jar-URL: BBNote.jar
+MIDlet-Jar-Size: 87913
+MicroEdition-Profile: MIDP-2.0
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-1: BBNote,res/ic_launcher.png,
+RIM-MIDlet-Flags-1: 0
+Manifest-Version: 1.0
+RIM-COD-URL: BBNote.cod
+RIM-COD-Size: 33124
+RIM-COD-Creation-Time: 1671523789
+RIM-COD-Module-Name: BBNote
+RIM-COD-Module-Dependencies: net_rim_cldc,HLibs
+RIM-COD-SHA1: 4a 04 ba 05 de 5d c3 7b 06 a0 3a 40 cc 2d 88 ff bc a7 75 a3
+RIM-COD-URL-1: HLibs.cod
+RIM-Library-Flags: 2
+RIM-COD-Size-1: 21012
